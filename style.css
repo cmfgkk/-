@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(118, 127, 255);
+}
+#text {
+    text-align: center;
+}
+#i1 {
+    position:relative; right: 1px
+}
+#i2 {
+    position: relative; top: 0px;
+}
+#i3 {
+    position: relative; border-bottom-right-radius: 0px;
+}
+#i4 {
+    position: relative; border-bottom-left-radius: 1000px;
+}
+#i5 {
+    position: relative; border-bottom-right-radius: 1000px;
+}
+#i5 {
+    position: relative; left: 600px;
+}
+#text {
+    position: relative; top: 100px;
+}
